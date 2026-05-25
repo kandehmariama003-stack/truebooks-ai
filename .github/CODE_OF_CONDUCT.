@@ -1,0 +1,83 @@
+# 🧠 TrueBooks AI
+
+**AI-Powered Financial Intelligence & Fraud Detection Platform**
+
+TrueBooks AI is a SaaS platform that transforms financial statements into actionable insights using artificial intelligence. It helps businesses, investors, and auditors analyze financial data, detect fraud risks, and generate investor-ready reports in seconds.
+
+---
+
+## 🚀 Features
+
+### 🤖 AI Financial Assistant
+Ask any accounting or finance question and get instant AI-powered answers.
+
+### 📄 PDF Financial Analysis
+Upload financial statements and automatically extract:
+- Revenue trends
+- Profitability analysis
+- Cash flow insights
+- Financial ratios
+
+### 🔍 Fraud Detection Engine
+AI-driven risk scoring system that detects:
+- Revenue manipulation
+- Cash flow inconsistencies
+- Unusual financial patterns
+- High-risk financial behavior
+
+### 📊 Investor Dashboard
+Visual insights for:
+- Business health score
+- Financial performance metrics
+- Risk analysis
+- Growth indicators
+
+### 💳 Subscription System
+- PayPal payment integration
+- APS payment gateway support
+- Monthly SaaS subscriptions ($35 Pro plan)
+
+---
+
+## 🏗️ Tech Stack
+
+- **Frontend:** Next.js (TypeScript)
+- **AI Engine:** OpenAI API
+- **Payments:** PayPal + APS
+- **Authentication:** Supabase (optional)
+- **Deployment:** Vercel
+- **Storage:** AWS / Supabase
+
+---
+
+## 💰 Pricing Model
+
+- **Free Plan:** Limited AI usage
+- **Pro Plan:** $35/month — Full AI features + PDF analysis + fraud detection
+- **Business Plan:** $99/month — Team & advanced analytics
+- **Enterprise:** Custom pricing
+
+---
+
+## 🎯 Business Model
+
+TrueBooks AI operates as a **B2B SaaS fintech platform** targeting:
+- Small & Medium Enterprises (SMEs)
+- Investors
+- Accountants & auditors
+- Financial analysts
+
+Revenue streams:
+- Monthly subscriptions
+- Enterprise licensing
+- API access for financial institutions
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/your-username/truebooks-ai.git
+cd truebooks-ai
+npm install
+npm run dev
